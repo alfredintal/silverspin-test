@@ -1,4 +1,4 @@
-# SilverSpin QA TEST
+# SilverSpin QA Test
 
 Welcome! I utilized a Playwright-based testing framework designed for automated testing using **Gherkin syntax** and **Cucumber-style BDD** for the feature files. 
 
